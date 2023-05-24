@@ -23,7 +23,7 @@
 # OR OTHER DEALINGS IN THE SOFTWARE.
 # ------------------------------------------------------------------------------
 from setuptools import find_packages, setup
-#***
+#********
 import versioneer
 
 KEYWORDS = (
